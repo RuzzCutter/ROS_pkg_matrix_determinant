@@ -1,0 +1,11 @@
+float32 aa
+float32 ab
+float32 ac
+float32 ba
+float32 bb
+float32 bc
+float32 ca
+float32 cb
+float32 cc
+---
+float32 determinant
